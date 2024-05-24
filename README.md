@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repository is moved to https://github.com/Azure-Samples/openai-apim-lb/
+
 ![Smart APIM load balancing](./images/intro-loadbalance.png)
 
 # :rocket: Smart load balancing for OpenAI endpoints and Azure API Management
