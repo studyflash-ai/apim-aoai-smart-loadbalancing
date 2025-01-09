@@ -52,7 +52,7 @@
 
                     backends.Add(new JObject()
                     {
-                        { "url", "https://sf-openai-west-europe.openai.azure.com/" },
+                        { "url", "https://sf-openai-prod-west-europe.openai.azure.com/" },
                         { "priority", 1},
                         { "isThrottling", false },
                         { "retryAfter", DateTime.MinValue }
