@@ -45,7 +45,7 @@
                     backends.Add(new JObject()
                     {
                         { "url", "https://sf-openai-prod-poland-central.openai.azure.com/" },
-                        { "priority", 2},
+                        { "priority", 1},
                         { "isThrottling", false },
                         { "retryAfter", DateTime.MinValue }
                     });
@@ -53,7 +53,7 @@
                     backends.Add(new JObject()
                     {
                         { "url", "https://sf-openai-west-europe.openai.azure.com/" },
-                        { "priority", 3},
+                        { "priority", 1},
                         { "isThrottling", false },
                         { "retryAfter", DateTime.MinValue }
                     });
